@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Nechar 👋
 
-<!--
-**SpeedRelativity/speedrelativity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year CS major | 💻 Aspiring Software Engineer / Applied AI Engineer  
+🌐 Interests: Web Dev (React, TypeScript, Node.js), AI/ML, Fullstack Projects  
+🚀 Currently building: [AI-powered Trip Planner](#)  
+📂 Tech stack: React · Vite · TypeScript · Node.js · Express · MongoDB · Docker  
+⚡ Fun fact: I enjoy exploring space, virtual worlds, and competitive gaming  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect
+- [LinkedIn](www.linkedin/in/necharkc)  
+- [Portfolio](#)  
+- [Email](#)
