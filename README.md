@@ -7,6 +7,6 @@
 ⚡ Fun fact: I enjoy exploring space, virtual worlds, and competitive gaming  
 
 ## 🔗 Connect
-- [LinkedIn](www.linkedin/in/necharkc)  
+- [www.linkedin/in/necharkc]  
 - [Portfolio](#)  
 - [Email](#)
