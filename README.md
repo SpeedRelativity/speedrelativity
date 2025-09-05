@@ -2,7 +2,7 @@
 
 🎓 4th-year CS major | Software Engineer 
 🌐 Interests: Fullstack AI Projects  
-🚀 Currently building: [AI-powered Trip Planner](https://github.com/SpeedRelativity/AI-Travel-Itinerary-Generator-Full-Stack-App)   
+🚀 Currently building: 1V1 ONLINE CODE BATTLES   
 ⚡ Fun fact: I enjoy topics in space exploration, music, and gaming, and deep philosophy.
 
 ## 🔗 Connect
