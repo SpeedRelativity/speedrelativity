@@ -8,3 +8,8 @@
 ## 🔗 Connect
 - [LinkedIn](https://www.linkedin.com/in/necharkc)
 
+---
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=speedrelativity&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=speedrelativity&layout=compact&theme=radical)
+---
