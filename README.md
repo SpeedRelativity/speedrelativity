@@ -31,7 +31,7 @@ I'm always open to collaborating on AI projects, hackathons, or tech opportuniti
 *Developed an end-to-end platform connecting LLM-powered AI itinerary generation with trip storage in MongoDB.*  
 - **Tech Stack**: React, TypeScript, Node.js, MongoDB, Docker, LLM API  
 - **Highlights**: Built responsive frontend UI in React with Tailwind CSS, connected to Node.js/Express APIs; Deployed containerized build on Render for reproducible deployment and reliable uptime  
-- **Demo**: [Live Demo](https://yourproject1.com)  
+- **Demo**: [Live Demo](https://trip-planner-uo9f.onrender.com/)  
 - **Repo**: [GitHub](https://github.com/speedrelativity/ai-travel-itinerary)
 
 ### [Event Discovery App (UCSC Hackathon Winner)](https://github.com/speedrelativity/event-discovery-app)
