@@ -8,7 +8,6 @@
 ## 📬 Get in Touch
 I'm always open to collaborating on AI projects, hackathons, or tech opportunities!  
 - 📧 Email: [necharkc@gmail.com](mailto:necharkc@gmail.com)  
-- 📞 Phone: 415-610-6914  
 - 💬 Connect on [LinkedIn](https://linkedin.com/in/necharkc)  
 
 ## 🛠️ Skills
