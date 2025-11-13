@@ -2,7 +2,7 @@
 
 🎓 4th-year CS major | Software Engineer 
 🌐 Interests: Fullstack AI Projects  
-🚀 Currently building: [Video Transcription and Summary AI](https://github.com/SpeedRelativity/Lecture-Summarizer---SPRINGBOOT-JAVA-PYTHON)  
+🚀 Currently building: [Custom Operating System from Scratch](https://github.com/SpeedRelativity/OS-from-scratch.git)  
 ⚡ Fun fact: I enjoy topics in space exploration, music, and gaming, and deep philosophy.
 
 ## 📬 Get in Touch
