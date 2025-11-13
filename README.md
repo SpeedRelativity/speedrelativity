@@ -13,7 +13,7 @@ I'm always open to collaborating on AI projects, hackathons, or tech opportuniti
 ## 🛠️ Skills
 | **Category**              | **Technologies**                                                                 |
 |---------------------------|----------------------------------------------------------------------------------|
-| **Programming Languages**| Python, Java, C++, TypeScript, JavaScript, SQL                                   |
+| **Programming Languages**| Python, Java, C++, TypeScript, JavaScript, SQL                                    |
 | **Fullstack Development** | React, Spring Boot, Vite, Node.js, Express, Tailwind CSS, Next.js, Firebase, MySQL, PostGreSQL, MongoDB |
-| **DevOps & Tools**       | AWS, EC2, Docker, Kubernetes, Render, Git, Linux                                |
-| **AI & ML**              | TensorFlow, ROS, LLM API, Spring AI, OpenAI Whisper, GPT API                    |
+| **DevOps & Tools**       | AWS, EC2, Docker, Kubernetes, Render, Git, Linux                                  |
+| **AI & ML**              | Pytorch, TensorFlow, ROS, LLM integration, Prompt Engineering                     |
