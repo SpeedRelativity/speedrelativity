@@ -21,4 +21,4 @@ I'm always open to collaborating on AI projects, hackathons, or tech opportuniti
 | **AI & ML**              | LLM Integration (OpenAI, Groq), Whisper AI, Prompt Engineering, PyTorch, OpenCV, TensorFlow |
 | **Robotics & Systems**   | ROS, Gazebo, OpenVLA, Multithreading, Concurrency Control |
 | **Databases**            | PostgreSQL, MySQL, MongoDB, Firebase |
-| **DevOps & Cloud**       | Docker, Kubernetes, AWS (EC2, S3), GitHub Actions, CI/CD, Linux, Git |
+| **DevOps & Cloud**       | Docker, Kubernetes, AWS (EC2), GitHub Actions, CI/CD, Linux, Git |
