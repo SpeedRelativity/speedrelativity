@@ -12,9 +12,13 @@ I'm always open to collaborating on AI projects, hackathons, or tech opportuniti
 - 💬 Connect on [LinkedIn](https://linkedin.com/in/necharkc)  
 
 ## 🛠️ Skills
+
 | **Category**              | **Technologies**                                                                 |
 |---------------------------|----------------------------------------------------------------------------------|
-| **Programming Languages**| Python, Java, C++, TypeScript, JavaScript, SQL                                    |
-| **Fullstack Development** | React, Spring Boot, Vite, Node.js, Express, Tailwind CSS, Next.js, Firebase, MySQL, PostGreSQL, MongoDB |
-| **DevOps & Tools**       | AWS, EC2, Docker, Kubernetes, Render, Git, Linux                                  |
-| **AI & ML**              | Pytorch, TensorFlow, ROS, LLM integration, Prompt Engineering                     |
+| **Programming Languages**| Python, Java, TypeScript, JavaScript, C++, SQL                                    |
+| **Frontend Development** | React, TypeScript, Tailwind CSS, Leaflet.js, Vite, HTML/CSS, Swing GUI |
+| **Backend Development** | Spring Boot, FastAPI, Node.js, Express, Flask, REST APIs, Socket Programming |
+| **AI & ML**              | LLM Integration (OpenAI, Groq), Whisper AI, Prompt Engineering, PyTorch, OpenCV, TensorFlow |
+| **Robotics & Systems**   | ROS, Gazebo, OpenVLA, Multithreading, Concurrency Control |
+| **Databases**            | PostgreSQL, MySQL, MongoDB, Firebase |
+| **DevOps & Cloud**       | Docker, Kubernetes, AWS (EC2, S3), GitHub Actions, CI/CD, Linux, Git |
