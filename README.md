@@ -1,4 +1,4 @@
-**Software Engineer** | Full-Stack, Backend, AI Tooling
+**Software Engineer** | Building Full-Stack AI Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necharkc/)
 
