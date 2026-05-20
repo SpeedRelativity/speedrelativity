@@ -4,7 +4,7 @@
 
 ## About
 
-CS senior at Cal State East Bay shipping full-stack and backend systems. Won HackHayward 2026 and CruzHacks 2025. Currently looking for SWE full-time or intern roles.
+CS senior at Cal State East Bay shipping full-stack and backend systems. Won HackHayward 2026 and CruzHacks 2025. Currently looking for full-time or intern roles.
 
 Core skills: React frontend UI/UX, backend APIs, AI-assisted development, full-stack web apps.
 
