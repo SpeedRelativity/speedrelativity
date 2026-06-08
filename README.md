@@ -4,7 +4,7 @@
 
 ## About
 
-Recent CS graduate. Interested in shipping impactful products. Won HackHayward 2026 and CruzHacks 2025. Currently looking for full-time SWE/AI Engineer roles or internships.
+Recent CS graduate. Interested in shipping impactful products. Won HackHayward 2026 for building FishBowlAI. Currently looking for full-time SWE/AI Engineer roles or internships.
 
 Core skills: Java, Python, React, Javascript, Typescript, Git, Linux, Scripting, LLMs, AI-assisted Development, Unit Testing, REST APIs.
 
