@@ -10,5 +10,3 @@ Core skills: Java, Python, React, Javascript, Typescript, Git, Linux, Scripting,
 
 <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,react,ts,postgres,docker,linux,git" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=speedrelativity&show_icons=true&hide_border=true" />
-<img src="https://streak-stats.demolab.com?user=speedrelativity&hide_border=true" />
